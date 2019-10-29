@@ -1,0 +1,16 @@
+[
+{
+  "modid": "economiamod",
+  "name": "Economia",
+  "description": "A economy mod with vending machines.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["D4rkness_King"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

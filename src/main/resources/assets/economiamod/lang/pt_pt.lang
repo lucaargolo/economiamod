@@ -1,0 +1,46 @@
+#Block Name
+tile.economiamod.vendingblock.name=Loja
+
+#Buttons
+gui.vendingblock.name=Loja
+gui.vendingblock.storage=Armazém
+gui.vendingblock.options=Opções
+gui.vendingblock.purchase=Efetuar compra
+gui.vendingblock.seller=Vendedor
+gui.vendingblock.available=Disponível
+gui.vendingblock.price=Preço
+
+#You are buying QUANTITY unities
+gui.vendingblock.buying1=Estás a comprar
+gui.vendingblock.buying2=unidades
+
+#This is going to cost you PRICE CURRENCY
+gui.vendingblock.cost=Isso irá te custar
+
+#Please setup your vendingblock
+gui.vendingblock.setup=Configura a tua Loja
+
+#Container title
+gui.vendingblock.container=Armazém da Loja
+gui.vendingblock.player=Inventário
+
+#Name of the currency
+gui.vendingblock.currency=$
+
+#Invalid price
+gui.vendingblock.invalidprice=Esse preço é invalido!
+
+#Result messages
+gui.vendingblock.error.notowner=Tu não és o dono dessa loja!
+gui.vendingblock.error.noitem=Tu não estás a comprar nada!
+gui.vendingblock.error.nomoney=Sem dinheiro suficiente!
+gui.vendingblock.error.sameplayer=Tu não podes comprar na tua loja!
+gui.vendingblock.error.nobuyeraccount=Tu não possuis uma conta!
+gui.vendingblock.error.noselleraccount=O vendedor não possui uma conta!
+gui.vendingblock.error.nospace=Sem espaço no inventário!
+gui.vendingblock.error.qntinvalid=A quantia desejada é inválida!
+gui.vendingblock.error.invaliduuid=A UUID do vendedor é invalida!
+gui.vendingblock.success=Compra efetuada com sucesso!
+
+#Waila
+vendingblock.waila.nothing=Nada está a venda

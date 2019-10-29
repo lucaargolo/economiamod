@@ -1,0 +1,46 @@
+#Block Name
+tile.economiamod.vendingblock.name=Vending Block
+
+#Buttons
+gui.vendingblock.name=Vending Block
+gui.vendingblock.storage=Storage
+gui.vendingblock.options=Settings
+gui.vendingblock.purchase=Purchase
+gui.vendingblock.seller=Seller
+gui.vendingblock.available=Quantity
+gui.vendingblock.price=Price
+
+#You are buying QUANTITY unities
+gui.vendingblock.buying1=You are buying
+gui.vendingblock.buying2=units
+
+#This is going to cost you PRICE CURRENCY
+gui.vendingblock.cost=This is going to cost you
+
+#Please setup your vendingblock
+gui.vendingblock.setup=Setup your vending block
+
+#Container title
+gui.vendingblock.container=Shop Storage
+gui.vendingblock.player=Inventory
+
+#Name of the currency
+gui.vendingblock.currency=$
+
+#Invalid price
+gui.vendingblock.invalidprice=This price is invalid!
+
+#Result messages
+gui.vendingblock.error.notowner=You aren't the owner of this store!
+gui.vendingblock.error.noitem=You are not buying anything!
+gui.vendingblock.error.nomoney=Not enough money!
+gui.vendingblock.error.sameplayer=You can't buy from yourself!
+gui.vendingblock.error.nobuyeraccount=You don't have an account!
+gui.vendingblock.error.noselleraccount=The seller doesn't have an account!
+gui.vendingblock.error.nospace=Not enough free space!
+gui.vendingblock.error.qntinvalid=The desired quantity is invalid!
+gui.vendingblock.error.invaliduuid=The seller UUID is invalid!
+gui.vendingblock.success=Purchase successfully completed!
+
+#Waila
+vendingblock.waila.nothing=Nothing is on sale
